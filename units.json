@@ -1,0 +1,14 @@
+{
+    "meterToFoot": {"unit": "meters", "convert_to": "foots", "conversion" : 3.28084},
+    "meterToInch": {"unit": "meters", "convert_to": "inch", "conversion" : 39.3701},
+    "meterToCentimeter": {"unit": "meters", "convert_to": "centimeters", "conversion" : 100},
+    "centimeterToInch":{"unit": "centimeters", "convert_to": "inch", "conversion" : 0.393701},
+    "centimeterToFoot": {"unit": "centimeters", "convert_to": "foots", "conversion" : 0.0328084},
+    "centimeterToMeter": {"unit": "centimeters", "convert_to": "meters", "conversion" : 0.01},
+    "footToMeter": {"unit": "foots", "convert_to": "meters", "conversion" : 0.3048},
+    "footToCentimeter": {"unit": "foots", "convert_to": "centimeters", "conversion" : 30.48},
+    "footToInch": {"unit": "foots", "convert_to": "inch", "conversion" : 12},
+    "inchToCentimeter": {"unit": "inch", "convert_to": "centimeters", "conversion" : 2.54},
+    "inchToMeter": {"unit": "inch", "convert_to": "meters", "conversion" : 0.0254},
+    "inchToFoot": {"unit": "inch", "convert_to": "foots", "conversion" : 0.0833333}
+}
